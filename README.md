@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a PhD student at the PLATIPUS lab with Nisheeth Srivastava, Check out our lab page - https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/
 - ![image](https://github.com/user-attachments/assets/da8d0815-2abc-4154-8d62-bcd7646777a2) Link - https://www.researchgate.net/profile/Arjun_Mitra3 
 - ![image](https://github.com/user-attachments/assets/dac72db8-1ec7-4cdb-ae36-1b2ed5c9d4b5) Link - 
 - ![image](https://github.com/user-attachments/assets/16a0670f-7990-4934-aba0-de089341ac9f) Link - 
