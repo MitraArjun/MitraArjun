@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/da8d0815-2abc-4154-8d62-bcd7646777a2)
+https://www.researchgate.net/profile/Arjun_Mitra3
 <!--
 **MitraArjun/MitraArjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
