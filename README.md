@@ -7,17 +7,12 @@ I am a PhD student at the PLATIPUS lab with Nisheeth Srivastava, Check out our [
 - ![image](https://github.com/user-attachments/assets/16a0670f-7990-4934-aba0-de089341ac9f) Link
 - ![image](https://github.com/user-attachments/assets/b06e9621-a5fe-4ffc-947c-cad102138dc0) Link
 
+%% reference - https://shields.io/badges
 ## 💻 Programming Languages & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Code-R_Programming_Language-informational?style=flat&logo=r&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Cloud-Google_Big_Query-informational?style=flat&logo=googlecloud&logoColor=white&color=c9c9d8)
-
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=r&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Tools-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Tools-DBeaver-informational?style=flat&logo=dbeaver&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Tools-Looker_Studio-informational?style=flat&logo=looker&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Tools-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=c9c9d8)
+![](https://img.shields.io/badge/Tools-Gamemaker_Studio-informational?style=flat&logo=rstudio&logoColor=white&color=c9c9d8) - ![image](https://github.com/user-attachments/assets/a18428fb-203b-40b3-82f7-81ac442477e5)
